@@ -13,15 +13,15 @@ const CONFIG = {
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
-    floatingEmojis: {
+    floatingEmojis: {❤️, 💖, 💗, 💓}
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
-    questions: {
-        first: {
+    questions: {Do you like me?} 
+        first: {yes} 
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
